@@ -8,7 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("recipeimages/depositphotos_466880912-stock-photo-colorful-bright-tasty-macarons-b" +
-    "eautiful.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("recipeimages/creativeads99ap8.jpg")]
 
 

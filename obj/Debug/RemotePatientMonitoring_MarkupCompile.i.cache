@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\nahid\source\repos\RecipeShare\RemotePatientMonitoring\obj\Debug\
+C:\Users\Shane\Documents\Software Development Project 1\Iteration2ProgressMonitorig\RecipeShare-main\RemotePatientMonitoring\obj\Debug\
 RemotePatientMonitoring
 none
 false
 DEBUG;TRACE
-C:\Users\nahid\source\repos\RecipeShare\RemotePatientMonitoring\App.xaml
-61904369486
+C:\Users\Shane\Documents\Software Development Project 1\Iteration2ProgressMonitorig\RecipeShare-main\RemotePatientMonitoring\App.xaml
+91824024170
 
-11-356528521
-1987909867
-MainPage.xaml;MainPageUser.xaml;MainWindow.xaml;ProfilePage.xaml;SettingPage.xaml;UploadPage.xaml;
+14-145077394
+191302981245
+MainPage.xaml;MainPageUser.xaml;MainWindow.xaml;ProfilePage.xaml;RecipeManagement.xaml;RecipeViewWindow.xaml;SettingPage.xaml;UploadPage.xaml;UserAccess.xaml;
 
 False
 
